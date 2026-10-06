@@ -1,0 +1,16 @@
+# Local caches and temporary files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+Thumbs.db
+.DS_Store
+~$*.docx
+*.tmp
+# Credentials and private local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key

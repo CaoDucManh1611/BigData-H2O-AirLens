@@ -1,0 +1,596 @@
+{
+  "checked_at": "2026-10-06T00:43:37.466404+07:00",
+  "run_id": "20261005_233342_901346",
+  "raw_hash_verified": true,
+  "snapshot_code_cells": 13,
+  "eda_required": [
+    "figures/02_before_correlation.png",
+    "figures/04_before_after_aqi_histogram.png",
+    "figures/04_before_after_monthly_aqi.png",
+    "reports/before_correlation.csv",
+    "reports/after_correlation.csv",
+    "reports/before_numeric_describe.csv",
+    "reports/after_numeric_describe.csv",
+    "reports/quality_before_after.csv"
+  ],
+  "folders": {
+    "code": [
+      {
+        "file": "code/00_setup.py",
+        "bytes": 2676
+      },
+      {
+        "file": "code/01_a6fb32e981.py",
+        "bytes": 2289
+      },
+      {
+        "file": "code/02_6b97ff3e1e.py",
+        "bytes": 1286
+      },
+      {
+        "file": "code/03_06a4b4a569.py",
+        "bytes": 1689
+      },
+      {
+        "file": "code/04_666c381ba1.py",
+        "bytes": 2134
+      },
+      {
+        "file": "code/05_f77770a07e.py",
+        "bytes": 2512
+      },
+      {
+        "file": "code/06_2a84414917.py",
+        "bytes": 1253
+      },
+      {
+        "file": "code/07_3dd84af369.py",
+        "bytes": 677
+      },
+      {
+        "file": "code/08_75deacee36.py",
+        "bytes": 2286
+      },
+      {
+        "file": "code/09_95fc57151b.py",
+        "bytes": 1744
+      },
+      {
+        "file": "code/10_0b65ea1447.py",
+        "bytes": 1389
+      },
+      {
+        "file": "code/11_8250d0fced.py",
+        "bytes": 1832
+      },
+      {
+        "file": "code/12_a60563010e.py",
+        "bytes": 2904
+      },
+      {
+        "file": "code/13_48365b63f2.py",
+        "bytes": 4509
+      },
+      {
+        "file": "code/14_9b0eb0122e.py",
+        "bytes": 2313
+      },
+      {
+        "file": "code/15_fcdfc9d3e0.py",
+        "bytes": 324
+      },
+      {
+        "file": "code/16_0d900ff4ee.py",
+        "bytes": 5467
+      },
+      {
+        "file": "code/17_8a36c95299.py",
+        "bytes": 897
+      },
+      {
+        "file": "code/18_92b0f7c4e6.py",
+        "bytes": 950
+      },
+      {
+        "file": "code/19_5875bf592e.py",
+        "bytes": 1138
+      },
+      {
+        "file": "code/20_2205bd4073.py",
+        "bytes": 5197
+      }
+    ],
+    "features": [
+      {
+        "file": "features/schema.json",
+        "bytes": 438
+      },
+      {
+        "file": "features/supervised_next_day.csv",
+        "bytes": 1448500
+      }
+    ],
+    "figures": [
+      {
+        "file": "figures/02_before_aqi_histogram.png",
+        "bytes": 31678
+      },
+      {
+        "file": "figures/02_before_correlation.png",
+        "bytes": 48531
+      },
+      {
+        "file": "figures/02_before_missing_boxplot.png",
+        "bytes": 66243
+      },
+      {
+        "file": "figures/02_before_monthly_aqi.png",
+        "bytes": 154723
+      },
+      {
+        "file": "figures/04_after_correlation.png",
+        "bytes": 46918
+      },
+      {
+        "file": "figures/04_after_daily_aqi.png",
+        "bytes": 416540
+      },
+      {
+        "file": "figures/04_after_missing_boxplot.png",
+        "bytes": 48757
+      },
+      {
+        "file": "figures/04_before_after_aqi_histogram.png",
+        "bytes": 47535
+      },
+      {
+        "file": "figures/04_before_after_monthly_aqi.png",
+        "bytes": 214407
+      },
+      {
+        "file": "figures/06_split_sizes.png",
+        "bytes": 27502
+      },
+      {
+        "file": "figures/10_test_comparison_scatter.png",
+        "bytes": 102669
+      },
+      {
+        "file": "figures/10_test_residuals.png",
+        "bytes": 24243
+      },
+      {
+        "file": "figures/10_test_timeseries_cities.png",
+        "bytes": 560604
+      }
+    ],
+    "logs": [
+      {
+        "file": "logs/automl_events.csv",
+        "bytes": 22512
+      },
+      {
+        "file": "logs/cells.jsonl",
+        "bytes": 6259
+      }
+    ],
+    "metrics": [
+      {
+        "file": "metrics/baseline.csv",
+        "bytes": 222
+      },
+      {
+        "file": "metrics/best_per_family_validation.csv",
+        "bytes": 616
+      },
+      {
+        "file": "metrics/family_comparison_test.csv",
+        "bytes": 831
+      },
+      {
+        "file": "metrics/leader_test.json",
+        "bytes": 360
+      },
+      {
+        "file": "metrics/leaderboard_validation.csv",
+        "bytes": 4179
+      },
+      {
+        "file": "metrics/test_by_city.csv",
+        "bytes": 209
+      }
+    ],
+    "models": [
+      {
+        "file": "models/StackedEnsemble_AllModels_1_AutoML_1_20261005_163507.zip",
+        "bytes": 298368
+      },
+      {
+        "file": "models/checkpoints/DRF_1_AutoML_1_20261005_163507",
+        "bytes": 3574519
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_1_AutoML_1_20261005_163507",
+        "bytes": 41108
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_grid_1_AutoML_1_20261005_163507",
+        "bytes": 12001
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_grid_1_AutoML_1_20261005_163507_model_1",
+        "bytes": 47370
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_grid_1_AutoML_1_20261005_163507_model_2",
+        "bytes": 76497
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_grid_2_AutoML_1_20261005_163507",
+        "bytes": 11469
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_grid_2_AutoML_1_20261005_163507_model_1",
+        "bytes": 58639
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_grid_3_AutoML_1_20261005_163507",
+        "bytes": 11568
+      },
+      {
+        "file": "models/checkpoints/DeepLearning_grid_3_AutoML_1_20261005_163507_model_1",
+        "bytes": 60372
+      },
+      {
+        "file": "models/checkpoints/GBM_1_AutoML_1_20261005_163507",
+        "bytes": 105045
+      },
+      {
+        "file": "models/checkpoints/GBM_2_AutoML_1_20261005_163507",
+        "bytes": 193433
+      },
+      {
+        "file": "models/checkpoints/GBM_3_AutoML_1_20261005_163507",
+        "bytes": 218225
+      },
+      {
+        "file": "models/checkpoints/GBM_4_AutoML_1_20261005_163507",
+        "bytes": 312818
+      },
+      {
+        "file": "models/checkpoints/GBM_5_AutoML_1_20261005_163507",
+        "bytes": 221529
+      },
+      {
+        "file": "models/checkpoints/GBM_grid_1_AutoML_1_20261005_163507",
+        "bytes": 13328
+      },
+      {
+        "file": "models/checkpoints/GBM_grid_1_AutoML_1_20261005_163507_model_1",
+        "bytes": 212669
+      },
+      {
+        "file": "models/checkpoints/GBM_grid_1_AutoML_1_20261005_163507_model_2",
+        "bytes": 274688
+      },
+      {
+        "file": "models/checkpoints/GBM_grid_1_AutoML_1_20261005_163507_model_3",
+        "bytes": 3312406
+      },
+      {
+        "file": "models/checkpoints/GLM_1_AutoML_1_20261005_163507",
+        "bytes": 39775
+      },
+      {
+        "file": "models/checkpoints/StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+        "bytes": 14926845
+      },
+      {
+        "file": "models/checkpoints/StackedEnsemble_BestOfFamily_1_AutoML_1_20261005_163507",
+        "bytes": 6955820
+      },
+      {
+        "file": "models/checkpoints/XGBoost_1_AutoML_1_20261005_163507",
+        "bytes": 269233
+      },
+      {
+        "file": "models/checkpoints/XGBoost_2_AutoML_1_20261005_163507",
+        "bytes": 261229
+      },
+      {
+        "file": "models/checkpoints/XGBoost_3_AutoML_1_20261005_163507",
+        "bytes": 108881
+      },
+      {
+        "file": "models/checkpoints/XGBoost_grid_1_AutoML_1_20261005_163507",
+        "bytes": 14761
+      },
+      {
+        "file": "models/checkpoints/XGBoost_grid_1_AutoML_1_20261005_163507_model_1",
+        "bytes": 1153560
+      },
+      {
+        "file": "models/checkpoints/XGBoost_grid_1_AutoML_1_20261005_163507_model_2",
+        "bytes": 577050
+      },
+      {
+        "file": "models/checkpoints/XGBoost_grid_1_AutoML_1_20261005_163507_model_3",
+        "bytes": 428721
+      },
+      {
+        "file": "models/checkpoints/XGBoost_grid_1_AutoML_1_20261005_163507_model_4",
+        "bytes": 112813
+      },
+      {
+        "file": "models/checkpoints/XGBoost_grid_1_AutoML_1_20261005_163507_model_5",
+        "bytes": 473871
+      },
+      {
+        "file": "models/checkpoints/XRT_1_AutoML_1_20261005_163507",
+        "bytes": 2769766
+      },
+      {
+        "file": "models/h2o-genmodel.jar",
+        "bytes": 5154508
+      },
+      {
+        "file": "models/leader_manifest.json",
+        "bytes": 689
+      },
+      {
+        "file": "models/saved/DRF_1_AutoML_1_20261005_163507",
+        "bytes": 3576573
+      },
+      {
+        "file": "models/saved/DeepLearning_1_AutoML_1_20261005_163507",
+        "bytes": 42121
+      },
+      {
+        "file": "models/saved/DeepLearning_grid_1_AutoML_1_20261005_163507_model_1",
+        "bytes": 49209
+      },
+      {
+        "file": "models/saved/DeepLearning_grid_1_AutoML_1_20261005_163507_model_2",
+        "bytes": 77487
+      },
+      {
+        "file": "models/saved/DeepLearning_grid_2_AutoML_1_20261005_163507_model_1",
+        "bytes": 60474
+      },
+      {
+        "file": "models/saved/DeepLearning_grid_3_AutoML_1_20261005_163507_model_1",
+        "bytes": 62209
+      },
+      {
+        "file": "models/saved/GBM_1_AutoML_1_20261005_163507",
+        "bytes": 107313
+      },
+      {
+        "file": "models/saved/GBM_2_AutoML_1_20261005_163507",
+        "bytes": 195520
+      },
+      {
+        "file": "models/saved/GBM_3_AutoML_1_20261005_163507",
+        "bytes": 220312
+      },
+      {
+        "file": "models/saved/GBM_4_AutoML_1_20261005_163507",
+        "bytes": 314905
+      },
+      {
+        "file": "models/saved/GBM_5_AutoML_1_20261005_163507",
+        "bytes": 223620
+      },
+      {
+        "file": "models/saved/GBM_grid_1_AutoML_1_20261005_163507_model_1",
+        "bytes": 214303
+      },
+      {
+        "file": "models/saved/GBM_grid_1_AutoML_1_20261005_163507_model_2",
+        "bytes": 276320
+      },
+      {
+        "file": "models/saved/GBM_grid_1_AutoML_1_20261005_163507_model_3",
+        "bytes": 3314040
+      },
+      {
+        "file": "models/saved/GLM_1_AutoML_1_20261005_163507",
+        "bytes": 42913
+      },
+      {
+        "file": "models/saved/StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+        "bytes": 14931403
+      },
+      {
+        "file": "models/saved/StackedEnsemble_BestOfFamily_1_AutoML_1_20261005_163507",
+        "bytes": 6957826
+      },
+      {
+        "file": "models/saved/XGBoost_1_AutoML_1_20261005_163507",
+        "bytes": 273020
+      },
+      {
+        "file": "models/saved/XGBoost_2_AutoML_1_20261005_163507",
+        "bytes": 263666
+      },
+      {
+        "file": "models/saved/XGBoost_3_AutoML_1_20261005_163507",
+        "bytes": 111139
+      },
+      {
+        "file": "models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_1",
+        "bytes": 1155374
+      },
+      {
+        "file": "models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_2",
+        "bytes": 578862
+      },
+      {
+        "file": "models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_3",
+        "bytes": 430533
+      },
+      {
+        "file": "models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_4",
+        "bytes": 114627
+      },
+      {
+        "file": "models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_5",
+        "bytes": 475685
+      },
+      {
+        "file": "models/saved/XRT_1_AutoML_1_20261005_163507",
+        "bytes": 2771857
+      },
+      {
+        "file": "models/saved/metalearner_AUTO_StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+        "bytes": 95530
+      },
+      {
+        "file": "models/saved/metalearner_AUTO_StackedEnsemble_BestOfFamily_1_AutoML_1_20261005_163507",
+        "bytes": 76932
+      },
+      {
+        "file": "models/saved_models.json",
+        "bytes": 6464
+      }
+    ],
+    "notebooks": [
+      {
+        "file": "notebooks/OpenMeteo_H2O_code_snapshot.ipynb",
+        "bytes": 40190
+      }
+    ],
+    "predictions": [
+      {
+        "file": "predictions/next_day_from_completed_history.csv",
+        "bytes": 365
+      },
+      {
+        "file": "predictions/test_predictions.csv",
+        "bytes": 39308
+      }
+    ],
+    "processed": [
+      {
+        "file": "processed/daily_clean.csv",
+        "bytes": 721298
+      },
+      {
+        "file": "processed/hourly_clean.csv",
+        "bytes": 6459595
+      },
+      {
+        "file": "processed/source_forecast_daily_SEPARATE.csv",
+        "bytes": 2665
+      }
+    ],
+    "reports": [
+      {
+        "file": "reports/SUMMARY.md",
+        "bytes": 1266
+      },
+      {
+        "file": "reports/after_correlation.csv",
+        "bytes": 893
+      },
+      {
+        "file": "reports/after_daily_describe.csv",
+        "bytes": 1763
+      },
+      {
+        "file": "reports/after_numeric_describe.csv",
+        "bytes": 895
+      },
+      {
+        "file": "reports/algorithm_coverage.csv",
+        "bytes": 81
+      },
+      {
+        "file": "reports/algorithm_coverage_check.json",
+        "bytes": 141
+      },
+      {
+        "file": "reports/automl_settings.json",
+        "bytes": 218
+      },
+      {
+        "file": "reports/before_correlation.csv",
+        "bytes": 899
+      },
+      {
+        "file": "reports/before_describe.csv",
+        "bytes": 819
+      },
+      {
+        "file": "reports/before_missing.csv",
+        "bytes": 185
+      },
+      {
+        "file": "reports/before_numeric_describe.csv",
+        "bytes": 562
+      },
+      {
+        "file": "reports/config.json",
+        "bytes": 321
+      },
+      {
+        "file": "reports/current_code_manifest.json",
+        "bytes": 1937
+      },
+      {
+        "file": "reports/executed_modeling_steps.json",
+        "bytes": 2281
+      },
+      {
+        "file": "reports/file_inventory.csv",
+        "bytes": 5973
+      },
+      {
+        "file": "reports/hourly_quality.csv",
+        "bytes": 194
+      },
+      {
+        "file": "reports/quality_before_after.csv",
+        "bytes": 187
+      },
+      {
+        "file": "reports/raw_manifest.json",
+        "bytes": 337
+      },
+      {
+        "file": "reports/split_ranges.csv",
+        "bytes": 272
+      },
+      {
+        "file": "reports/versions.json",
+        "bytes": 64
+      },
+      {
+        "file": "reports/worst_20_errors.csv",
+        "bytes": 2448
+      }
+    ],
+    "splits": [
+      {
+        "file": "splits/blend.csv",
+        "bytes": 144918
+      },
+      {
+        "file": "splits/early_stop.csv",
+        "bytes": 144388
+      },
+      {
+        "file": "splits/test.csv",
+        "bytes": 145342
+      },
+      {
+        "file": "splits/train.csv",
+        "bytes": 867313
+      },
+      {
+        "file": "splits/validation.csv",
+        "bytes": 143372
+      }
+    ]
+  }
+}

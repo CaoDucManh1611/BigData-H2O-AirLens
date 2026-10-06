@@ -1,0 +1,29 @@
+{
+  "leader": "StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+  "mojo": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/StackedEnsemble_AllModels_1_AutoML_1_20261005_163507.zip",
+  "h2o_version": "3.46.0.8",
+  "predictors": [
+    "city",
+    "pm10_today",
+    "pm2_5_today",
+    "co_today",
+    "no2_today",
+    "so2_today",
+    "o3_today",
+    "aqi_today",
+    "aqi_max_today",
+    "pm2_5_std_today",
+    "aqi_lag_1",
+    "aqi_lag_2",
+    "aqi_lag_3",
+    "aqi_lag_7",
+    "aqi_mean_3",
+    "pm2_5_mean_3",
+    "aqi_mean_7",
+    "pm2_5_mean_7",
+    "weekday",
+    "year_sin",
+    "year_cos"
+  ],
+  "target": "next_day_mean_us_aqi"
+}

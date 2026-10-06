@@ -1,0 +1,9 @@
+{
+  "run_id": "20261005_233342_901346",
+  "source_dir": "/content/drive/MyDrive/Bigdata_H20",
+  "target": "next_day_mean_us_aqi",
+  "source": "CAMS model output via Open-Meteo",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "created": "2026-10-05T16:33:42.983269"
+}

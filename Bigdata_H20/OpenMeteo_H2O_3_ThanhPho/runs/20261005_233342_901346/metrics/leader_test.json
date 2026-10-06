@@ -1,0 +1,14 @@
+{
+  "model_id": "StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+  "test": {
+    "mae": 12.138672425452185,
+    "rmse": 15.801110489792151,
+    "r2": 0.79243492089669
+  },
+  "baseline_test": {
+    "mae": 15.279309640522877,
+    "rmse": 20.813382092994043,
+    "r2": 0.6398657852737744
+  },
+  "chosen_on": "validation RMSE; test does not change leader"
+}

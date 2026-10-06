@@ -1,0 +1,114 @@
+[
+  {
+    "model_id": "DRF_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/DRF_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "DeepLearning_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/DeepLearning_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "DeepLearning_grid_1_AutoML_1_20261005_163507_model_1",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/DeepLearning_grid_1_AutoML_1_20261005_163507_model_1"
+  },
+  {
+    "model_id": "DeepLearning_grid_1_AutoML_1_20261005_163507_model_2",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/DeepLearning_grid_1_AutoML_1_20261005_163507_model_2"
+  },
+  {
+    "model_id": "DeepLearning_grid_2_AutoML_1_20261005_163507_model_1",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/DeepLearning_grid_2_AutoML_1_20261005_163507_model_1"
+  },
+  {
+    "model_id": "DeepLearning_grid_3_AutoML_1_20261005_163507_model_1",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/DeepLearning_grid_3_AutoML_1_20261005_163507_model_1"
+  },
+  {
+    "model_id": "GBM_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "GBM_2_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_2_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "GBM_3_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_3_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "GBM_4_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_4_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "GBM_5_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_5_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "GBM_grid_1_AutoML_1_20261005_163507_model_1",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_grid_1_AutoML_1_20261005_163507_model_1"
+  },
+  {
+    "model_id": "GBM_grid_1_AutoML_1_20261005_163507_model_2",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_grid_1_AutoML_1_20261005_163507_model_2"
+  },
+  {
+    "model_id": "GBM_grid_1_AutoML_1_20261005_163507_model_3",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GBM_grid_1_AutoML_1_20261005_163507_model_3"
+  },
+  {
+    "model_id": "GLM_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/GLM_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/StackedEnsemble_AllModels_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "StackedEnsemble_BestOfFamily_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/StackedEnsemble_BestOfFamily_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "XGBoost_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "XGBoost_2_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_2_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "XGBoost_3_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_3_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "XGBoost_grid_1_AutoML_1_20261005_163507_model_1",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_1"
+  },
+  {
+    "model_id": "XGBoost_grid_1_AutoML_1_20261005_163507_model_2",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_2"
+  },
+  {
+    "model_id": "XGBoost_grid_1_AutoML_1_20261005_163507_model_3",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_3"
+  },
+  {
+    "model_id": "XGBoost_grid_1_AutoML_1_20261005_163507_model_4",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_4"
+  },
+  {
+    "model_id": "XGBoost_grid_1_AutoML_1_20261005_163507_model_5",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XGBoost_grid_1_AutoML_1_20261005_163507_model_5"
+  },
+  {
+    "model_id": "XRT_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/XRT_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "metalearner_AUTO_StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/metalearner_AUTO_StackedEnsemble_AllModels_1_AutoML_1_20261005_163507"
+  },
+  {
+    "model_id": "metalearner_AUTO_StackedEnsemble_BestOfFamily_1_AutoML_1_20261005_163507",
+    "path": "/content/drive/MyDrive/Bigdata_H20/OpenMeteo_H2O_3_ThanhPho/runs/20261005_233342_901346/models/saved/metalearner_AUTO_StackedEnsemble_BestOfFamily_1_AutoML_1_20261005_163507"
+  }
+]

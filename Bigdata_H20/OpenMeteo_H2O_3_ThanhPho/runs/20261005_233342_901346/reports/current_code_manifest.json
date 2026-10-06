@@ -1,0 +1,67 @@
+[
+  {
+    "step": 0,
+    "source_file": "code/00_setup.py",
+    "sha256": "2816b916b20092b4401e400f2a0cc77faed23364d2de6130bae008de1277d10c"
+  },
+  {
+    "step": 1,
+    "source_file": "code/01_a6fb32e981.py",
+    "sha256": "a6fb32e981b02141c3b2b6c1dcc97c8e0d1981e853c7ba8a85e786418a574fec"
+  },
+  {
+    "step": 2,
+    "source_file": "code/14_9b0eb0122e.py",
+    "sha256": "9b0eb0122edb53f45ccf2a00df98e57bcb755bf9e26c4b79e5b7fbc8c284e4a5"
+  },
+  {
+    "step": 3,
+    "source_file": "code/03_06a4b4a569.py",
+    "sha256": "06a4b4a5698e65d6301c44965c3eeeadcb21d10c4b8e9eafaccc0f5d745cb68c"
+  },
+  {
+    "step": 4,
+    "source_file": "code/16_0d900ff4ee.py",
+    "sha256": "0d900ff4eecca7d210ac80166d1edff23c3b7b3f2de36432c32b440d70d8c3d5"
+  },
+  {
+    "step": 5,
+    "source_file": "code/05_f77770a07e.py",
+    "sha256": "f77770a07e2939dd915fcee3307420f45a90055d4fe0bc5592a8ee196c3175d9"
+  },
+  {
+    "step": 6,
+    "source_file": "code/06_2a84414917.py",
+    "sha256": "2a844149172b2cfb88f1e6e26bb73b7966da0a2368cdc37a41745c911026b180"
+  },
+  {
+    "step": 7,
+    "source_file": "code/07_3dd84af369.py",
+    "sha256": "3dd84af369f0182ead498a5b8e545389095bb4c7070bdfadc680fc10d1b69c21"
+  },
+  {
+    "step": 8,
+    "source_file": "code/08_75deacee36.py",
+    "sha256": "75deacee36b9b4cc187cc7c1612b4dee83bf2643f56b181f2aebe2cdea23071e"
+  },
+  {
+    "step": 9,
+    "source_file": "code/09_95fc57151b.py",
+    "sha256": "95fc57151bcddf3f01663fe07ae7e383ff09d778403384409e4936e8f80fca92"
+  },
+  {
+    "step": 10,
+    "source_file": "code/10_0b65ea1447.py",
+    "sha256": "0b65ea1447e86bc3fc545c69489063f115edefbc13f6dc1ae353023a7952ac2f"
+  },
+  {
+    "step": 11,
+    "source_file": "code/11_8250d0fced.py",
+    "sha256": "8250d0fced9576c66b6a4f6eed2386e85686f6cff238737a07c1ac3fcbce657d"
+  },
+  {
+    "step": 12,
+    "source_file": "code/20_2205bd4073.py",
+    "sha256": "2205bd4073a398f4668a637aca151958a63040678b4e042cbd2817e9f7608874"
+  }
+]

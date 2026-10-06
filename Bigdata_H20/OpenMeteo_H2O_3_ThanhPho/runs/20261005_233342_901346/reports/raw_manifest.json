@@ -1,0 +1,12 @@
+[
+  {
+    "file": "air_quality_3_cities_20230101_20261004.csv",
+    "sha256": "d89c5833241b61411e8595b15f620e533bd17e4761a975f242ebc641f3c46930",
+    "bytes": 5240733
+  },
+  {
+    "file": "forecast_3_cities_20261005_20261009.csv",
+    "sha256": "d1c8328f5a8f6241cc9867fbccb9b346432194738618941844ddc8dd1680cadd",
+    "bytes": 19455
+  }
+]

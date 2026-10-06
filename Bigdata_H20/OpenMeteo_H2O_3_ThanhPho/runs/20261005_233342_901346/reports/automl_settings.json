@@ -1,0 +1,10 @@
+{
+  "max_models": 24,
+  "max_runtime_secs_per_model": 60,
+  "nfolds": 0,
+  "seed": 42,
+  "include_algos": null,
+  "exclude_algos": null,
+  "selection": "validation RMSE",
+  "blending": "chronological dedicated split"
+}

@@ -1,0 +1,4 @@
+stage,rows,missing_original_cells,missing_numeric_cells,negative_cells,infinite_cells,duplicate_keys
+before_hourly,98856,0,0,0,0,0
+after_hourly,98856,0,0,0,0,0
+after_daily,4119,0,0,0,0,0

@@ -1,0 +1,94 @@
+{
+  "city": "Da Nang",
+  "label": "Đà Nẵng",
+  "input_date": "2026-10-06",
+  "target_date": "2026-10-07",
+  "prediction": 56.81471190541562,
+  "today_aqi": 53.125,
+  "history": [
+    {
+      "date": "2026-09-23",
+      "aqi": 30
+    },
+    {
+      "date": "2026-09-24",
+      "aqi": 29.583333333333332
+    },
+    {
+      "date": "2026-09-25",
+      "aqi": 43.416666666666664
+    },
+    {
+      "date": "2026-09-26",
+      "aqi": 61.208333333333336
+    },
+    {
+      "date": "2026-09-27",
+      "aqi": 117.79166666666667
+    },
+    {
+      "date": "2026-09-28",
+      "aqi": 124.95833333333333
+    },
+    {
+      "date": "2026-09-29",
+      "aqi": 166.91666666666666
+    },
+    {
+      "date": "2026-09-30",
+      "aqi": 169.41666666666666
+    },
+    {
+      "date": "2026-10-01",
+      "aqi": 108.29166666666667
+    },
+    {
+      "date": "2026-10-02",
+      "aqi": 89.16666666666667
+    },
+    {
+      "date": "2026-10-03",
+      "aqi": 83.95833333333333
+    },
+    {
+      "date": "2026-10-04",
+      "aqi": 91.04166666666667
+    },
+    {
+      "date": "2026-10-05",
+      "aqi": 69.375
+    },
+    {
+      "date": "2026-10-06",
+      "aqi": 53.125
+    }
+  ],
+  "mode": "live",
+  "features": {
+    "city": "Da Nang",
+    "pm10_today": 6.4375,
+    "pm2_5_today": 5.1625,
+    "co_today": 442.2916666666667,
+    "no2_today": 4.070833333333334,
+    "so2_today": 1.4875,
+    "o3_today": 103.125,
+    "aqi_today": 53.125,
+    "aqi_max_today": 79,
+    "pm2_5_std_today": 1.8672957661444183,
+    "aqi_lag_1": 69.375,
+    "aqi_lag_2": 91.04166666666667,
+    "aqi_lag_3": 83.95833333333333,
+    "aqi_lag_7": 166.91666666666666,
+    "aqi_mean_3": 71.18055555555556,
+    "pm2_5_mean_3": 13.730555555555556,
+    "aqi_mean_7": 94.91071428571429,
+    "pm2_5_mean_7": 17.601785714285715,
+    "weekday": 2,
+    "year_sin": -0.9945667569706337,
+    "year_cos": 0.1041007489354256
+  },
+  "model_id": "StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+  "source": "CAMS / Open-Meteo",
+  "retrieved_at": "2026-10-06T00:05:00.695671+07:00",
+  "api_url": "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=21.0285%2C16.0544%2C10.8231&longitude=105.8542%2C108.2022%2C106.6297&hourly=pm10%2Cpm2_5%2Ccarbon_monoxide%2Cnitrogen_dioxide%2Csulphur_dioxide%2Cozone%2Cus_aqi&timezone=Asia%2FHo_Chi_Minh&start_date=2026-09-23&end_date=2026-10-06"
+}

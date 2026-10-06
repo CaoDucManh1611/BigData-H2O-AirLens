@@ -1,0 +1,94 @@
+{
+  "city": "TP.HCM",
+  "label": "TP. Hồ Chí Minh",
+  "input_date": "2026-10-06",
+  "target_date": "2026-10-07",
+  "prediction": 119.13396366075241,
+  "today_aqi": 126.66666666666667,
+  "history": [
+    {
+      "date": "2026-09-23",
+      "aqi": 80.875
+    },
+    {
+      "date": "2026-09-24",
+      "aqi": 56.458333333333336
+    },
+    {
+      "date": "2026-09-25",
+      "aqi": 59.375
+    },
+    {
+      "date": "2026-09-26",
+      "aqi": 69.54166666666667
+    },
+    {
+      "date": "2026-09-27",
+      "aqi": 106.04166666666667
+    },
+    {
+      "date": "2026-09-28",
+      "aqi": 102.45833333333333
+    },
+    {
+      "date": "2026-09-29",
+      "aqi": 98.29166666666667
+    },
+    {
+      "date": "2026-09-30",
+      "aqi": 116.75
+    },
+    {
+      "date": "2026-10-01",
+      "aqi": 98.875
+    },
+    {
+      "date": "2026-10-02",
+      "aqi": 84.58333333333333
+    },
+    {
+      "date": "2026-10-03",
+      "aqi": 79.04166666666667
+    },
+    {
+      "date": "2026-10-04",
+      "aqi": 98.16666666666667
+    },
+    {
+      "date": "2026-10-05",
+      "aqi": 113.375
+    },
+    {
+      "date": "2026-10-06",
+      "aqi": 126.66666666666667
+    }
+  ],
+  "mode": "live",
+  "features": {
+    "city": "TP.HCM",
+    "pm10_today": 46.925,
+    "pm2_5_today": 46.81666666666667,
+    "co_today": 1361.2083333333333,
+    "no2_today": 49.0,
+    "so2_today": 51.275,
+    "o3_today": 94.58333333333333,
+    "aqi_today": 126.66666666666667,
+    "aqi_max_today": 166,
+    "pm2_5_std_today": 13.789966947233669,
+    "aqi_lag_1": 113.375,
+    "aqi_lag_2": 98.16666666666667,
+    "aqi_lag_3": 79.04166666666667,
+    "aqi_lag_7": 98.29166666666667,
+    "aqi_mean_3": 112.73611111111111,
+    "pm2_5_mean_3": 40.34444444444445,
+    "aqi_mean_7": 102.49404761904762,
+    "pm2_5_mean_7": 34.17261904761905,
+    "weekday": 2,
+    "year_sin": -0.9945667569706337,
+    "year_cos": 0.1041007489354256
+  },
+  "model_id": "StackedEnsemble_AllModels_1_AutoML_1_20261005_163507",
+  "source": "CAMS / Open-Meteo",
+  "retrieved_at": "2026-10-06T00:03:07.753987+07:00",
+  "api_url": "https://air-quality-api.open-meteo.com/v1/air-quality?latitude=21.0285%2C16.0544%2C10.8231&longitude=105.8542%2C108.2022%2C106.6297&hourly=pm10%2Cpm2_5%2Ccarbon_monoxide%2Cnitrogen_dioxide%2Csulphur_dioxide%2Cozone%2Cus_aqi&timezone=Asia%2FHo_Chi_Minh&start_date=2026-09-23&end_date=2026-10-06"
+}

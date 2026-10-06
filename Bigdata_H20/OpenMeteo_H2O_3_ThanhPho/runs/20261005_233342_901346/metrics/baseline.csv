@@ -1,0 +1,3 @@
+split,model,mae,rmse,r2
+validation,Persistence: AQI tomorrow = today,13.097736625514402,18.792855459555135,0.7382011160132971
+test,Persistence: AQI tomorrow = today,15.279309640522877,20.813382092994043,0.6398657852737744

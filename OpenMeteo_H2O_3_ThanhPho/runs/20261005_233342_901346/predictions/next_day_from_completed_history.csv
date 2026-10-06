@@ -1,0 +1,4 @@
+city,input_date,target_date,h2o_prediction,input_source
+Ha Noi,2026-10-04,2026-10-05,82.40120857353511,Completed historical CAMS day; not station observation
+Da Nang,2026-10-04,2026-10-05,101.89431971818398,Completed historical CAMS day; not station observation
+TP.HCM,2026-10-04,2026-10-05,100.79351115514211,Completed historical CAMS day; not station observation

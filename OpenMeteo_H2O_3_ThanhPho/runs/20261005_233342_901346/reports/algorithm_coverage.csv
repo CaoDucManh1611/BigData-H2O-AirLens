@@ -1,0 +1,8 @@
+family,models
+DRF,1
+DeepLearning,5
+GBM,8
+GLM,1
+StackedEnsemble,2
+XGBoost,8
+XRT,1

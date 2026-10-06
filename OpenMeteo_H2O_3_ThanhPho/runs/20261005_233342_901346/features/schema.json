@@ -1,0 +1,27 @@
+{
+  "predictors": [
+    "city",
+    "pm10_today",
+    "pm2_5_today",
+    "co_today",
+    "no2_today",
+    "so2_today",
+    "o3_today",
+    "aqi_today",
+    "aqi_max_today",
+    "pm2_5_std_today",
+    "aqi_lag_1",
+    "aqi_lag_2",
+    "aqi_lag_3",
+    "aqi_lag_7",
+    "aqi_mean_3",
+    "pm2_5_mean_3",
+    "aqi_mean_7",
+    "pm2_5_mean_7",
+    "weekday",
+    "year_sin",
+    "year_cos"
+  ],
+  "target": "target_aqi",
+  "horizon_days": 1
+}

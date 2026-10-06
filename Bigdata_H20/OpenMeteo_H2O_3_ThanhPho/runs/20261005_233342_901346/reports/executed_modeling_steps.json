@@ -1,0 +1,167 @@
+[
+  {
+    "name": "XGBoost",
+    "steps": [
+      {
+        "id": "def_2",
+        "group": 1,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "GLM",
+    "steps": [
+      {
+        "id": "def_1",
+        "group": 1,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "GBM",
+    "steps": [
+      {
+        "id": "def_5",
+        "group": 1,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "XGBoost",
+    "steps": [
+      {
+        "id": "def_1",
+        "group": 2,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "DRF",
+    "steps": [
+      {
+        "id": "def_1",
+        "group": 2,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "GBM",
+    "steps": [
+      {
+        "id": "def_2",
+        "group": 2,
+        "weight": 10
+      },
+      {
+        "id": "def_3",
+        "group": 2,
+        "weight": 10
+      },
+      {
+        "id": "def_4",
+        "group": 2,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "XGBoost",
+    "steps": [
+      {
+        "id": "def_3",
+        "group": 3,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "DRF",
+    "steps": [
+      {
+        "id": "XRT",
+        "group": 3,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "GBM",
+    "steps": [
+      {
+        "id": "def_1",
+        "group": 3,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "DeepLearning",
+    "steps": [
+      {
+        "id": "def_1",
+        "group": 3,
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "name": "XGBoost",
+    "steps": [
+      {
+        "id": "grid_1",
+        "group": 4,
+        "weight": 90
+      }
+    ]
+  },
+  {
+    "name": "GBM",
+    "steps": [
+      {
+        "id": "grid_1",
+        "group": 4,
+        "weight": 60
+      }
+    ]
+  },
+  {
+    "name": "DeepLearning",
+    "steps": [
+      {
+        "id": "grid_1",
+        "group": 4,
+        "weight": 30
+      },
+      {
+        "id": "grid_2",
+        "group": 5,
+        "weight": 30
+      },
+      {
+        "id": "grid_3",
+        "group": 5,
+        "weight": 30
+      }
+    ]
+  },
+  {
+    "name": "StackedEnsemble",
+    "steps": [
+      {
+        "id": "best_of_family_xglm",
+        "group": 10,
+        "weight": 10
+      },
+      {
+        "id": "all_xglm",
+        "group": 10,
+        "weight": 10
+      }
+    ]
+  }
+]
